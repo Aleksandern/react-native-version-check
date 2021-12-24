@@ -1,4 +1,5 @@
 {
+  "name": "react-native-version-check",
   "version": "3.4.2",
   "scripts": {
     "lint": "eslint .",
